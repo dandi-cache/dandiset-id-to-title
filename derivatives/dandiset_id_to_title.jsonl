@@ -1,0 +1,928 @@
+{"000003": "Physiological Properties and Behavioral Correlates of Hippocampal Granule Cells and Mossy Cells"}
+{"000004": "A NWB-based dataset and processing pipeline of human single-neuron activity during a declarative memory task"}
+{"000005": "Electrophysiology data from thalamic and cortical neurons during somatosensation"}
+{"000006": "Mouse anterior lateral motor cortex (ALM) in delay response task"}
+{"000007": "A cortico-cerebellar loop for motor planning"}
+{"000008": "Phenotypic variation within and across transcriptomic cell types in mouse motor cortex"}
+{"000009": "Maintenance of persistent activity in a frontal thalamocortical loop"}
+{"000010": "A motor cortex circuit for motor planning and movement"}
+{"000011": "Robust neuronal dynamics in premotor cortex during motor planning"}
+{"000012": "Kriegstein2020"}
+{"000013": "Low-noise encoding of active touch by layer 4 in the somatosensory cortex"}
+{"000015": "A Map of Anticipatory Activity in Mouse Motor Cortex"}
+{"000016": "Excitatory and inhibitory subnetworks are equally selective during decision-making and emerge simultaneously during learning"}
+{"000017": "Distributed coding of choice, action and engagement across the mouse brain"}
+{"000018": "Mouse Spinal Cord Ephys Dataset"}
+{"000019": "Human ECoG speaking consonant-vowel syllables"}
+{"000020": "Patch-seq recordings from mouse visual cortex"}
+{"000021": "Allen Institute - Visual Coding - Neuropixels (Brain Observatory 1.1 Stimulus Set)"}
+{"000022": "Allen Institute - Visual Coding - Neuropixels (Functional Connectivity Stimulus Set)"}
+{"000023": "Patch-seq recordings from human cortex (June 2020)"}
+{"000024": "LFP & MUA from BF"}
+{"000025": "Example intracellular ephys data from LNMC & BBP"}
+{"000026": "Human brain cell census for BA 44/45"}
+{"000027": "Test dataset for testing dandi-cli."}
+{"000028": "Simulated cortical Neuropixels recording with ground truth"}
+{"000029": "Test dataset for development purposes..,..."}
+{"000030": "Allen Brain Observatory Neuropixels recording"}
+{"000031": "ABC"}
+{"000032": "Test dataset"}
+{"000033": "Test-2 dataset"}
+{"000034": "SpikeInterface, a unified framework for spike sorting"}
+{"000035": "Temperature-controlled intracellular Patch-seq recordings in mouse motor cortex"}
+{"000036": "Allen Institute Openscope - Measuring Stimulus-Evoked Neurophysiological Differentiation in Distinct Populations of Neurons in Mouse Visual Cortex"}
+{"000037": "Allen Institute Openscope - Responses to inconsistent stimuli in somata and distal apical dendrites in primary visual cortex"}
+{"000038": "Testytest"}
+{"000039": "Allen Institute \u2013 Contrast tuning in mouse visual cortex with calcium imaging"}
+{"000040": "Neuropixels recordings in mouse visual system"}
+{"000041": "Network Homeostasis and State Dynamics of Neocortical Sleep"}
+{"000042": "Allen Institute Openscope - Meaningful project  - Full movies"}
+{"000043": "Human, macaque, and mouse L5 pyramidal neuron physiology"}
+{"000044": "Diversity in neural firing dynamics supports both rigid and learned hippocampal sequences"}
+{"000045": "IBL behavioral data"}
+{"000046": "asdf"}
+{"000047": "Test"}
+{"000048": "Electrical and optical physiology in in vivo population-scale two-photon calcium imaging"}
+{"000049": "Allen Institute \u2013 TF x SF tuning in mouse visual cortex with calcium imaging"}
+{"000050": "Allen Institute - Run Tuning in the Mouse Visual Cortex"}
+{"000051": "pons8-yo_16xdownsampled"}
+{"000052": "Pons8-BIDS-16xdownsampled"}
+{"000053": "Recordings from medial entorhinal cortex during linear track and open exploration"}
+{"000054": "Plitt & Giocomo (2021) Experience Dependent Contextual Codes in the Hippocampus. Nat Neuro"}
+{"000055": "AJILE12: Long-term naturalistic human intracranial neural recordings and pose"}
+{"000056": "Internally organized mechanisms of the head direction sense"}
+{"000057": "Test dandiset"}
+{"000058": "MITU01 Dataset"}
+{"000059": "Cooling of Medial Septum Reveals Theta Phase Lag Coordination of Hippocampal Cell Assemblies"}
+{"000060": "Dataset for Finkelstein, Fontolan et al. \"Attractor dynamics gate cortical information flow during decision-making\""}
+{"000061": "Reactivations of emotional memory in the hippocampus\u2013amygdala system during sleep"}
+{"000063": "UHN_human_heterogeneity"}
+{"000064": "Simulation extension example"}
+{"000065": "Polymer probe recordings from hippocampus (LFP), OFC, NAc, and mPFC"}
+{"000066": "Allen Mouse Common Coordinate Framework - Average Brain Template"}
+{"000067": "Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex"}
+{"000068": "Testing"}
+{"000069": "testing_2"}
+{"000070": "Neural population dynamics during reaching"}
+{"000071": "Brandon's Test Dandiset"}
+{"000072": "neural data"}
+{"000105": "MGH19-1-021520"}
+{"000106": "Electrophysiology data from simultaneous recordings"}
+{"000107": "IVSCC stimulus sets"}
+{"000108": "Light sheet imaging of the human brain"}
+{"000109": "Patch-seq recordings from human cortex (June 2021)"}
+{"000110": "Foobar"}
+{"000111": "ZZZz"}
+{"000112": "Test"}
+{"000113": "bla"}
+{"000114": "Oxytocin neurons enable social transmission of maternal behaviour"}
+{"000115": "Gillespie et al (2021) Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice"}
+{"000116": "Test_upload_LiZhang_SpinalCord"}
+{"000117": "1U01MH116990-01_July_2021"}
+{"000118": "user test"}
+{"000119": "ble"}
+{"000120": "test"}
+{"000121": "Structure and variability of delay activity in premotor cortex"}
+{"000122": "Human fNIRS recordings of motor cortex during finger-tapping task"}
+{"000123": "test"}
+{"000124": "footest"}
+{"000125": "Neural population dynamics during reaching: analysis dataset"}
+{"000126": "NWB API Test Data"}
+{"000127": "Area2_Bump: macaque somatosensory area 2 spiking activity during reaching with perturbations"}
+{"000128": "MC_Maze: macaque primary motor and dorsal premotor cortex spiking activity during delayed reaching"}
+{"000129": "MC_RTT: Macaque motor cortex spiking activity during self-paced reaching (Superior arm-movement decoding from cortex)"}
+{"000130": "DMFC_RSG: macaque dorsomedial frontal cortex spiking activity during time interval reproduction task"}
+{"000131": "Nestdesktop PK"}
+{"000132": "Neurex Summer School"}
+{"000133": "nest dataset"}
+{"000134": "neurex"}
+{"000135": "Test"}
+{"000136": "NEST"}
+{"000137": "Neurex Summer School 2021"}
+{"000138": "MC_Maze_Large: macaque primary motor and dorsal premotor cortex spiking activity during delayed reaching"}
+{"000139": "MC_Maze_Medium: macaque primary motor and dorsal premotor cortex spiking activity during delayed reaching"}
+{"000140": "MC_Maze_Small: macaque primary motor and dorsal premotor cortex spiking activity during delayed reaching"}
+{"000141": "TravelingDirection_2021"}
+{"000142": "20210923_AIBS_Patchseq_human"}
+{"000143": "IHC Validation Data"}
+{"000144": "croat-test"}
+{"000145": "Test 2"}
+{"000146": "NYB"}
+{"000147": "PPC_Finger: human posterior parietal cortex recordings during attempted finger movements"}
+{"000148": "Electrophysiological properties of adult mouse spinal cord neurons - 01_Oct_2021"}
+{"000149": "IBL ephys data"}
+{"000150": "test_release_openscope"}
+{"000151": "OpenScope_Credit_assignement_raw_test"}
+{"000152": "test_workshop"}
+{"000153": "IEDs"}
+{"000154": "test dandi workshop"}
+{"000155": "dandi workshop djd"}
+{"000156": "dandi workshop to be deleted"}
+{"000157": "xiaoai"}
+{"000158": "My Project"}
+{"000159": "dandi workshop"}
+{"000160": "Test_G"}
+{"000161": "VD Dandi Workshop Test"}
+{"000162": "Shin test"}
+{"000163": "xx"}
+{"000164": "test"}
+{"000165": "Aery Jones et al (2021) Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1"}
+{"000166": "Layer-Specific Physiological Features and Interlaminar Interactions in the Primary Visual Cortex of the Mouse"}
+{"000167": "Two photon calcium imaging of mice piriform cortex under passive odor presentation"}
+{"000168": "Simultaneous loose seal cell-attached recordings  and two-photon imaging of GCaMP8 expressing mouse V1 neurons with drifting gratings visual stimuli"}
+{"000169": "Milti-probe Neuropixels recordings in mouse visual system (additional data)"}
+{"000170": "CRACK"}
+{"000171": "Test 1"}
+{"000172": "UHN whole-cell excitability recordings from mouse cortical neurons"}
+{"000173": "Neural Spiking Data in Primary Somatosensory Cortex before and after Transcranial Focused Ultrasound Stimulation in Rats"}
+{"000206": "Visual cortical activity in mice performing naturalistic virtual foraging task"}
+{"000207": "Data for: Neurons detect cognitive boundaries to structure episodic memories in humans (Zheng et al., 2022, Nat Neuro in press)"}
+{"000208": "UHN_mouse_L5_patchclamp"}
+{"000209": "20211223_AIBS_Patchseq_human"}
+{"000210": "Visual cortical activity in mice performing naturalistic virtual foraging task"}
+{"000211": "UHN whole-cell excitability recordings from human cortical neurons"}
+{"000212": "Tracking of Drosophila during egg-laying decisions"}
+{"000213": "Transformation of a Spatial Map across the Hippocampal-Lateral Septal Circuit"}
+{"000214": "Jan_2022_DANDI"}
+{"000215": "1U01MH116990-01_Jan_2022"}
+{"000216": "1U01MH116990-01_Jan_2022"}
+{"000217": "Sniff-synchronized, gradient-guided olfactory search by freely moving mice -- Behavioral Dataset"}
+{"000218": "Routing of Hippocampal Ripples to Subcortical Structures via the Lateral Septum"}
+{"000219": "Two photon calcium imaging in the CA1 region of the hippocampus in neonatal mice."}
+{"000220": "Electrophysiological properties of adult mouse spinal cord neurons - 25_Jan_2022"}
+{"000221": "A midbrain-thalamus-cortex circuit reorganizes cortical dynamics to initiate movement"}
+{"000222": "O'Hare et al 2022"}
+{"000223": "Inferring monosynaptic connections from paired spine calcium imaging and large-scale recording of extracellular spiking"}
+{"000225": "Neural and behavioral"}
+{"000226": "Active Touch and Self-Motion Encoding by Merkel Cell-Associated Afferents"}
+{"000227": "Electrophysiological recordings in protein hunger neurons of Drosophila Melanogaster"}
+{"000228": "20220330_AIBS_Patchseq_human"}
+{"000229": "xxx"}
+{"000230": "Jacobsen 2022"}
+{"000231": "A detailed behavioral, videographic, and neural dataset on object recognition in mice"}
+{"000232": "Rule-based modulation of a sensorimotor transformation across cortical areas"}
+{"000233": "A metabolic function of the hippocampal sharp wave-ripple"}
+{"000235": "Thermoregulatory Responses Forebrain"}
+{"000236": "Thermoregulatory Responses Midbrain"}
+{"000237": "Thermoregulatory Responses Hindbrain"}
+{"000238": "Thermoregulatory Responses Reticulospinal system"}
+{"000239": "Cortical processing of flexible and context-dependent sensorimotor sequences"}
+{"000241": "ngff testing"}
+{"000243": "MRI of human ex vivo brainstem"}
+{"000244": "One photon mesoscale calcium imaging of multiple cell types"}
+{"000245": "Electrophysiological properties of adult mouse spinal cord neurons - 22Q1_Ephys_DANDI"}
+{"000246": "developing CaMPARI3"}
+{"000247": "Calcium imaging of egg-laying related neurons in head-fixed Drosophila"}
+{"000248": "Allen Institute Openscope - Illusion project"}
+{"000249": "Innate and plastic mechanisms for maternal behaviour in auditory cortex"}
+{"000250": "High-resolution tracking of Drosophila during egg-laying"}
+{"000251": "A Unified Framework for Dopamine Signals across Timescales"}
+{"000252": "Finger_RL: human intracortical recordings during attempted finger movements of right and left hands"}
+{"000253": "Allen Institute Openscope - Global/Local Oddball project"}
+{"000255": "A unified 3D map of microscopic architecture and MRI of the human brain"}
+{"000288": "20220630_AIBS_Patchseq_human"}
+{"000289": "Two-photon calcium imaging of EPG cells in Drosophila Melanogaster presented with cues of varying reliability"}
+{"000290": "Diaz-Torga_Sfig1"}
+{"000292": "UHN whole-cell patch-clamp excitability recordings from mouse cortical neurons"}
+{"000293": "UHN whole-cell patch-clamp excitability recordings from human cortical neurons"}
+{"000294": "A multi-modal fitting approach to construct single-neuron models with patch-clamp and high-density microelectrode arrays"}
+{"000295": "Electrophysiological properties of adult mouse spinal cord neurons - 22Q2_Ephys_DANDI"}
+{"000296": "Drosophila visual neural responses to stochastic stimuli"}
+{"000297": "UHN whole-cell patch-clamp excitability recordings from human cortical neurons"}
+{"000298": "Brain_stim_and_FSCV_and_ensemble_recording_anesthetized"}
+{"000299": "Stephen Test Set"}
+{"000301": "Extracellular electrophysiology unit data from mouse Superior Colliculus during whisker guided virtual navigation"}
+{"000302": "Habenular neurophysiology"}
+{"000335": "My Test Dataset"}
+{"000336": "Allen Institute Openscope - Dendritic Coupling project"}
+{"000337": "20220917_AIBS_Patchseq_human"}
+{"000338": "groupweight BMI"}
+{"000339": "Local Field Potential Recordings in the Primary Somatosensory Cortex before and after Transcranial Focused Ultrasound Stimulation in Rats"}
+{"000340": "Allen Institute Openscope - Credit Assignment project with stimuli templates"}
+{"000341": "Temporal disparity of action potentials triggered in axon initial segments and distal axons in the neocortex"}
+{"000343": "da_network_2022"}
+{"000346": "Test dataset"}
+{"000347": "Multiphoton imaging in macaque visual cortex (preliminary data)"}
+{"000348": "Tanabe-2022-CurrentBiology"}
+{"000349": "HMV-test"}
+{"000350": "Glia Accumulate Evidence that Actions Are Futile and Suppress Unsuccessful Behavior"}
+{"000351": "Jeong et al (2022) Mesolimbic dopamine release conveys causal associations"}
+{"000359": "Human brain mapping with multithousand-channel PtNRGrids resolves spatiotemporal dynamics"}
+{"000362": "Simultaneous loose seal cell-attached recordings and two-photon imaging of GCaMP8 expressing mouse V1 neurons with drifting gratings visual stimuli  - RAW movies"}
+{"000363": "Mesoscale Activity Map Dataset"}
+{"000364": "M1_waterGrab"}
+{"000397": "Large-scale neural recordings with single neuron resolution using Neuropixels probes in human cortex"}
+{"000398": "Scalable Thousand Channel Penetrating Microneedle Arrays on Flex for Multimodal and Large Area Coverage BrainMachine Interfaces"}
+{"000399": "All-optical physiology resolves a synaptic basis for behavioral time scale plasticity"}
+{"000400": "test"}
+{"000401": "touchExploration: human S1 recordings with multisensory tactile stimuli in arm and finger"}
+{"000402": "MICrONS Two Photon Functional Imaging"}
+{"000403": "Mouse AUD CTB"}
+{"000404": "Monkey 2D cursor BMI"}
+{"000405": "Gonzalez & Giocomo (2022) Parahippocampal neurons encode task-relevant information for goal-directed navigation"}
+{"000406": "Spyglass sample data"}
+{"000408": "In vitro electrochemical impedance spectroscopy data - microelectrode arrays"}
+{"000409": "IBL - Brain Wide Map"}
+{"000410": "Joshi et al (2023) Dynamic Synchronization between Hippocampal Spatial Representations and the Stepping Rhythm"}
+{"000411": "test"}
+{"000444": "Dynamic corticothalamic gain modulation of the somatosensory thalamocortical circuit during wakefulness"}
+{"000445": "EDTest"}
+{"000446": "Test upload"}
+{"000447": "Novel-familiar-novel WTrack (CA1-PFC)"}
+{"000448": "Time kinetics of the membrane potential at the cathode- and anode-facing poles of a cell induced by a train of 5 pulses at 833 kHz"}
+{"000449": "Moving_C_Elegans_Corrected_Voleti_2019"}
+{"000451": "Single Day WTrack Learning"}
+{"000452": "Parabrachial"}
+{"000453": "Guide to the construction and use of an adaptive optics two-photon microscope with direct wavefront sensing"}
+{"000454": "Guide to the construction and use of an adaptive optics two-photon microscope with direct wavefront sensing"}
+{"000455": "Coregistration of heading to visual cues in retrosplenial cortex"}
+{"000456": "Accelerated signal propagation speed in human neocortical microcircuits"}
+{"000457": "Novel-familiar-novel WTrack (CA1-PFC)"}
+{"000458": "Simultaneous electroencephalography, extracellular electrophysiology, and cortical electrical stimulation in head-fixed mice"}
+{"000461": "Cohen Tickertapes Exploratory Data 1"}
+{"000462": "HippocampusRewardDataset"}
+{"000463": "Electrophysiological Recordings in Anesthetized Rats in the Primary Somatosensory Cortex with Phased Ultrasound Array Stimulation"}
+{"000465": "Human brain mapping with multithousand-channel PtNRGrids resolves spatiotemporal dynamics"}
+{"000466": "Optical Recording Exploratory Data 1"}
+{"000467": "Sparse and stereotyped encoding implicates a core glomerulus for ant alarm behavior"}
+{"000468": "Human single-neuron activity during the Treasure Hunt spatial navigation task"}
+{"000469": "Dataset of human-single neuron activity during a Sternberg working memory task."}
+{"000470": "Test"}
+{"000472": "NeuroPAL volumetric images"}
+{"000473": "Esr1+ hypothalamic-habenula neurons shape aversive states."}
+{"000474": "EIS DATA"}
+{"000476": "Neural recording of ventral striatum and pallidum in a probabilistic reward task"}
+{"000477": "Dataset for Coregistration of heading to visual cues in retrosplenial cortex"}
+{"000478": "BrainSTEM test"}
+{"000479": "BrainSTEM dataset"}
+{"000480": "Cellular Mechanisms of State-Dependent Processing in Visual Cortex (preliminary data)"}
+{"000481": "State-dependent processing in visual cortex"}
+{"000482": "State-dependent processing in visual cortex"}
+{"000483": "Dataset for \"Coregistration of heading to visual cues in retrosplenial cortex\""}
+{"000485": "Thermal Plaid Experiments"}
+{"000486": "Thermal Plaid Replay Experiments"}
+{"000487": "Allen Institute Openscope - Tmp"}
+{"000488": "Allen Institute Openscope - Differential encoding of temporal context and expectation"}
+{"000489": "The impact of the second phase amplitude (% to the first phase) on the electroporation efficiency (measured as YP emission)"}
+{"000490": "test set"}
+{"000491": "BrainFlowZZZ"}
+{"000492": "Accelerated signal propagation speed in human neocortical microcircuits"}
+{"000529": "Test 2"}
+{"000530": "Extracellular electrophysiology unit data from mouse Superior Colliculus during whisker guided virtual navigation"}
+{"000532": "Allen Institute Openscope - Tmp 2"}
+{"000534": "to_be_deleted"}
+{"000535": "Allen Institute Openscope - Effects of Periodic Visual Stimulation on Neural Activity in Mouse Visual Cortex"}
+{"000536": "test"}
+{"000537": "Scaling of GEVI Fluorescence with 1P and 2P Illumination"}
+{"000538": "Comparing the 1P and 2P Voltage Contrast of JEDI2P and Voltron2_JF525"}
+{"000539": "EDtest2"}
+{"000540": "Dataset for: A change in behavioral state switches the pattern of motor output that underlies rhythmic head and orofacial movements"}
+{"000541": "NeuroPAL Microfluidic Chip Images and GCaMP activity"}
+{"000542": "test"}
+{"000543": "Test"}
+{"000544": "Test Dataset"}
+{"000545": "Test set"}
+{"000546": "vStr_phase_stim"}
+{"000547": "Perivascular Pumping of Cerebrospinal Fluid in the Brain with a Valve Mechanism"}
+{"000548": "Effect of the number of pulses on electroporation by unipolar and 50 % bipolar pulses"}
+{"000549": "Effect of the pulse duration on electroporation by unipolar and 50% bipolar pulses"}
+{"000550": "Pulse repetition rate"}
+{"000551": "Probing subthreshold dynamics of hippocampal neurons by pulsed optogenetics"}
+{"000552": "Preconfigured dynamics in the hippocampus are guided by embryonic birthdate and rate of neurogenesis"}
+{"000554": "Human brain mapping with multithousand-channel PtNRGrids resolves spatiotemporal dynamics"}
+{"000555": "Conserved neural dynamics across species in olfaction"}
+{"000556": "First set"}
+{"000557": "Human brain mapping with multithousand-channel PtNRGrids resolves spatiotemporal dynamics"}
+{"000558": "Climbing fiber multi-innervation of mouse Purkinje dendrites with arborization common to human"}
+{"000559": "Spontaneous behaviour is structured by reinforcement without explicit reward"}
+{"000560": "Calcium imaging of odor responses in the fruit fly mushroom body"}
+{"000561": "32-CH Local Field Potential Data During Probabilistic Reversal Learning Task"}
+{"000563": "Allen Institute Openscope - Barcoding"}
+{"000564": "microwave neuromodulation"}
+{"000565": "C. elegans whole-brain neuroPAL and immobilized calcium imaging"}
+{"000566": "ASAP4 data"}
+{"000567": "Tested"}
+{"000568": "Probing subthreshold dynamics of hippocampal neurons by pulsed optogenetics"}
+{"000569": "20230630_AIBS_Patchseq_nonhuman_primate"}
+{"000570": "20230630_AIBS_Patchseq_human"}
+{"000571": "Intracranial recordings using BCI2000 and the CorTec BrainInterchange"}
+{"000572": "Activity map of a cortico-cerebellar loop underlying motor planning"}
+{"000574": "Dataset of human medial temporal lobe neurons, scalp and intracranial EEG during a verbal working memory task"}
+{"000575": "Dataset of human medial temporal lobe neurons during a visual working memory task"}
+{"000576": "Dataset of neurons and intracranial EEG from human amygdala during aversive dynamic visual stimulation"}
+{"000577": "Emergence of Agency in Human Infants"}
+{"000579": "Two-photon calcium imaging of mouse posterior cortical areas during dynamic navigation decisions (Tseng et al., 2022, Neuron)"}
+{"000582": "Conjunctive Representation of Position, Direction, and Velocity in Entorhinal Cortex"}
+{"000615": "A Novel Neuropathic Pain Treatment: Achieving Neuronal Inhibition with a Splti Ring Resonator"}
+{"000617": "Allen Institute Openscope - Sequence Learning Project"}
+{"000618": "SpikeForest ground truth datasets"}
+{"000619": "Benisty_Higley_2023"}
+{"000620": "Multi-object working memory in macaque frontal cortex (N. Watters, J. Gabel, J. Tenenbaum, M. Jazayeri)"}
+{"000623": "Data for: Multimodal single-neuron, intracranial EEG, and fMRI brain responses during movie watching in human patients"}
+{"000624": "A brainstem circuit for the expression of defensive facial reactions in rat"}
+{"000625": "Molecularly Identified CA1 Interneuron Dynamics"}
+{"000626": "Neural Organoid Ephys Trace"}
+{"000628": "Extracellular recording along macaque ventral visual pathway during natural image free viewing"}
+{"000629": "Gillespie et al (2024) Neurofeedback training can modulate task-relevant memory replay rate in rats"}
+{"000630": "Human L1 patch-seq electrophysiology"}
+{"000631": "Effect of the electric field vector change on the electroporation efficiency of paired-pulse trains compared to single-pulse trains"}
+{"000632": "Electroporation efficiency of co-directional and cross-directional paired pulses"}
+{"000633": "The difference in electroporation patterns produced by a train of single pulses and a train of paired pulses"}
+{"000634": "Cell Membrane Charging by Co- and Counter-Directional ns electrical pulses (nsEP)"}
+{"000635": "20230930_AIBS_Patchseq_nonhuman_primate"}
+{"000636": "Human interneuron patch-seq electrophysiology"}
+{"000637": "Neural Spike Time Response Data in Anesthetized Rats in the Primary Somatosensory Cortex with Phased Ultrasound Array Stimulation"}
+{"000638": "Hippocampus and Entorhinal Cortex Dual Region Silicon Probe recording"}
+{"000639": "test my dandiset 1"}
+{"000640": "32-CH Local Field Potential Data During Probabilistic Reversal Learning Task"}
+{"000673": "Data for: Control of working memory by phase\u2013amplitude coupling of human hippocampal neurons"}
+{"000674": "Volumetric multiplex imaging of whole human and non-human primate brains"}
+{"000676": "Exploring zebra finch neural activity using Neuropixel Probes"}
+{"000677": "Utricular hair cell recordings from mice with constitutive knockout of K+ channel subunit Kv1.8 and wildtype/heterozygous littermates"}
+{"000678": "Pupil and movement measurements during mouse auditory and visual discrimination"}
+{"000679": "Oxytocin receptors on human dorsal root and trigeminal ganglia neurons"}
+{"000680": "Whole brain spontaneous activity plus NeuroPAL images of semi-restricted worms"}
+{"000682": "Hippocampal Interneuronal Dysfunction and Hyperexcitability in a Porcine Model of Concussion"}
+{"000683": "Element Calcium Imaging Data Upload"}
+{"000686": "Focusing electroporation to the center of a quadrupole electrode array by interference of unipolar pulses (NextGeneration-CANCAN)"}
+{"000687": "similarity-weighted interleaved learning"}
+{"000688": "Long-term recordings of motor and premotor cortical spiking activity during reaching in monkeys"}
+{"000689": "Data supporting Neurotensin orchestrates valence  assignment in the amygdala"}
+{"000690": "Allen Institute Openscope - Vision2Hippocampus project"}
+{"000691": "An optical design enabling lightweight and large field-of-view head-mounted microscopes"}
+{"000692": "Whole-brain spontaneous GCaMP activity with NeuroPAL cell ID information of semi-restricted worms"}
+{"000693": "Characterizing the effect of environmental enrichment on representational complexity and functional synaptic connectivity"}
+{"000694": "Brainstem recordings"}
+{"000695": "Circadian regulation of dopamine 1 receptor signaling in the Nucleus Accumbens"}
+{"000696": "The organization of context versus content coding in the hippocampus and neocortex"}
+{"000697": "Constant temperature behavior 16C"}
+{"000698": "Constant temperature behavior 18C"}
+{"000699": "Constant temperature behavior 20C"}
+{"000700": "Constant temperature behavior 22C"}
+{"000701": "Constant temperature behavior 24C"}
+{"000702": "Constant temperature behavior 26C"}
+{"000703": "Constant temperature behavior 28C"}
+{"000704": "Constant temperature behavior 30C"}
+{"000705": "Constant temperature behavior 32C"}
+{"000706": "Constant temperature behavior 34C"}
+{"000707": "Gradient behavior 18C to 26C"}
+{"000708": "Gradient behavior 24C to 32C"}
+{"000710": "Laminar coding properties of visual object representations in the mouse neocortex across multiple contexts"}
+{"000711": "Allen Institute - Visual Behavior - Optical Physiology"}
+{"000712": "test"}
+{"000713": "Allen Institute - Visual Behavior - Neuropixels"}
+{"000714": "Segmented and labeled NeuroPAL structural images"}
+{"000715": "NeuroPAL: Atlas of C. elegans neuron locations and colors in NeuroPAL worm"}
+{"000716": "Peristimulus Time Histograms Derived from Electrophysiological Recordings in the Inferotemporal Cortex of Macaques During RSVP Tasks"}
+{"000717": "NWB Cloud Benchmarks - HDF5"}
+{"000718": "Offline ensemble co-reactivation links memories across days"}
+{"000719": "NWB Cloud Benchmarks - Zarr"}
+{"000720": "Peristimulus Time Histograms Derived from Electrophysiological Recordings in the Inferotemporal Cortex of Macaques During RSVP Tasks"}
+{"000722": "sOCT of the Human Somatosensory Cortex and Vessel Segmentation"}
+{"000723": "VR-SASE Virtual Reality Dendritic Spine Analysis"}
+{"000724": "NIH BRAIN CONNECTS Hackathon - Public data"}
+{"000726": "4chDemoPL2.pl2"}
+{"000727": "Mapping the Neural Dynamics of Locomotion across the Drosophila Brain"}
+{"000728": "Allen Institute - Visual Coding - Optical Physiology"}
+{"000730": "General data test"}
+{"000732": "Protosequences in brain organoids model intrinsic brain states"}
+{"000733": "h5ad test"}
+{"000766": "Novel genetically encoded tools for imaging neuropeptide release from presynaptic terminals in vivo"}
+{"000768": "20231222_AIBS_Patchseq_nonhuman_primate"}
+{"000769": "20231222_AIBS_Patchseq_human"}
+{"000773": "Age affects odor-evoked calcium responses in the ant antennal lobe"}
+{"000774": "Spatial and temporal propagation of spiking activity in response to electrical stimulation in visual cortex"}
+{"000776": "Brain-wide representations of behavior spanning multiple timescales and states in C. elegans"}
+{"000783": "test-zarr"}
+{"000784": "vector compositionality Jazayeri Lab"}
+{"000785": "Projection-specific routing of odor information in the olfactory cortex"}
+{"000790": "Peristimulus Time Histograms Derived from E-Phys Rec. in the Inferotemporal Cortex of Macaques During RSVP Tasks [ImageSet: faceemovids]"}
+{"000791": "Peristimulus Time Histograms Derived from E-Phys Rec. in the Inferotemporal Cortex of Macaques During RSVP Tasks [ImageSet: faceemovids]"}
+{"000870": "Wild-type rat retina responses to white light stimulation recorded by microelectrode array"}
+{"000871": "Allen Institute Openscope - Predictive Learning and Somato-dendritic Coupling"}
+{"000872": "Glymphatic Fluid Transport Is Suppressed by the AQP4 Inhibitor AER-271"}
+{"000873": "Watters Test"}
+{"000875": "Influence of unipolar pulse packet quantity on centering the electroporation effect within a quadrupole electrode array."}
+{"000876": "MVMNDA"}
+{"000877": "Data from T-DOpE Probe Paper"}
+{"000878": "Mechanoluminescent nanomaterials for optogenetic neuromodulation"}
+{"000880": "Haptics Lab - Vibrotactile Stimulus in Mouse Forepaw S1"}
+{"000881": "Test"}
+{"000883": "per session nwb files oasis900"}
+{"000886": "Yaulab-NWB"}
+{"000887": "emotional_memory_neuronal_data"}
+{"000888": "Thermal Plaid Experiments - steep gradients"}
+{"000889": "Thermal Plaid Replay Experiments - steep gradients"}
+{"000891": "Oxygen Imaging of Hypoxic Pockets in the Mouse Cerebral Cortex"}
+{"000893": "Primary cortical neurons recorded on high-density microelectrode arrays"}
+{"000894": "ALM two hemisphere recording dataset, Chen Kang et al Cell 2021"}
+{"000897": "Neupane_Fiete_Jazayeri_Mental navigation_NHP_EntorhinalCortex"}
+{"000930": "A mechanosensory feedback that uncouples external and self-generated sensory responses in the olfactory cortex"}
+{"000931": "A mechanosensory feedback that uncouples external and self-generated sensory responses in the olfactory cortex"}
+{"000932": "An electroencephalogram microdisplay to visualize neuronal activity on the brain surface"}
+{"000933": "20240331_AIBS_Patchseq_human"}
+{"000934": "20240331_AIBS_Patchseq_nonhuman_primate"}
+{"000935": "Interluminescence:  Selective Control of Synaptically-Connected Circuit Elements using bioluminescence"}
+{"000937": "Spyglass Demo Data"}
+{"000938": "Visualization and characterization of membrane lesions"}
+{"000939": "Large-scale recordings of head direction cells in mouse postsubiculum"}
+{"000940": "Data for: Hippocampal Theta Phase Precession Supports Memory Formation and Retrieval of Naturalistic Experience in Humans"}
+{"000941": "FALCON Benchmark M1-A: primary motor cortex recordings in primate during reach-to-grasp task"}
+{"000942": "Test"}
+{"000943": "Clark and Nolan (2024) Task-anchored grid cell firing is selectively associated with successful path integration-dependent behaviour"}
+{"000945": "Neural Spiking Data in the Awake Rat Somatosensory Cortex Responding to Trials of Transcranial Focused Ultrasound Stimulation"}
+{"000946": "Neural Pathways Modulation in the Anesthetized Rat Elicited by Trials of Transcranial Focused Ultrasound Stimulation"}
+{"000947": "Reach-related Single Unit Activity in the Parkinsonian Macaque"}
+{"000948": "Single-Unit Activity from Ventrolateral Thalamus of Macaques During Reaching"}
+{"000949": "Electrophysiology-Compatible Wearable Transcranial Focused Ultrasound Neuromodulation Array Probes (Ultrasound Characterizations: Computer Simulations)"}
+{"000950": "FALCON Benchmark H2: Human Handwriting iBCI"}
+{"000951": "Dataset for Mapping model units to visual neurons reveals population code for social behavior"}
+{"000952": "32 CH local field potential recording of rodents performing a temporal discounting task"}
+{"000953": "FALCON Benchmark M2: primary motor cortex recordings in primate during finger movement"}
+{"000954": "FALCON Benchmark H1: Human 7DoF Reach and Grasp Motor BCI"}
+{"000955": "Neural Spiking Data in Rats Responding to Optogenetic Stimulation and Transcranial Focused Ultrasound Stimulation in the Somatosensory Cortex"}
+{"000956": "Vagus nerve stimulation recruits the central cholinergic system to enhance perceptual learning"}
+{"000957": "Neuropixels Ultra Probe Imposed Motion Dataset"}
+{"000958": "CR DBS"}
+{"000959": "Closed-loop microstimulations of the orbitofrontal cortex during real-life gaze interaction enhance dynamic social attention"}
+{"000960": "Test"}
+{"000961": "Neuro-FITM: Multi-Modal Recordings of Simultaneous Calcium Imaging and Electrophysiology"}
+{"000965": "Cell class-specific electric field entrainment of neural activity"}
+{"000968": "Engineering luminopsins with improved coupling efficiencies"}
+{"000969": "Removing direct photocurrent artifacts in optogenetic connectivity mapping data"}
+{"000970": "Long-wavelength traveling waves of vasomotion modulate the perfusion of cortex"}
+{"000971": "Dopamine signaling in the dorsomedial striatum promotes compulsive behavior"}
+{"000972": "Jake's Embargoed Dandiset 2"}
+{"000978": "Single Day W-Track Learning"}
+{"000979": "Impedance Spectroscopy Dataset"}
+{"000980": "EIS"}
+{"000981": "Whole-brain chemosensory responses of both C. elegans sexes"}
+{"000982": "Reduced K+ build-up in t-tubules contributes to resistance of the diaphragm to myotonia"}
+{"000983": "In vitro electrochemical impedance spectroscopy data - materials"}
+{"000984": "eis data"}
+{"000985": "CBD improves memory in SAMP8 Mice"}
+{"000986": "Auditory cortex Neuropixels recordings and pupil diameter traces from mice during passive exposure to pure tones"}
+{"000987": "Freely moving mouse retrosplenial cortex recordings"}
+{"000988": "Photophysics-informed two-photon voltage imaging using FRET-opsin voltage indicators"}
+{"000989": "In vitro electrochemical impedance spectroscopy data - G1 and G2"}
+{"001022": "testing upload"}
+{"001023": "In vitro electrochemical impedance spectroscopy data - Accuracy Contour Plot"}
+{"001024": "Electric field simulation"}
+{"001025": "The impact of voltage on CANCAN focusing of electroporation using four-electrode arrays of varying sizes"}
+{"001027": "CANCAN focusing of electroporation in a quadrupole array by different pulsing protocols"}
+{"001028": "CANCAN focusing of electroporation in 3D"}
+{"001029": "Depth dependence of 1P and 2P fluorescence"}
+{"001030": "High-frequency (2 kHz) sine wave  stimulation of individual hippocampal neurons: the effect of electric field"}
+{"001031": "High-frequency (100 kHz) rectangular bipolar pulses stimulation of individual hippocampal neurons: the effect of electric field"}
+{"001032": "Characterization of Neuron Action Potential Triggering Using Sine Wave Electrostimulation at Varying Frequencies_part1"}
+{"001033": "Characterization of Neuron Action Potential Triggering Using Sine Wave Electrostimulation at Varying Frequencies_part2"}
+{"001034": "Characterization of Neuron Action Potential Triggering Using Sine Wave Electrostimulation at Varying Frequencies_part3"}
+{"001035": "Characterization of Neuron Action Potential Triggering Using Sine Wave Electrostimulation at Varying Frequencies_part4"}
+{"001036": "Tonic GABA Synaptic Transmission in SNr Electrophysiology recordings"}
+{"001037": "Causal evidence of a line attractor encoding an affective state"}
+{"001038": "Unique functional responses differentially map onto genetic subtypes of dopamine neurons"}
+{"001039": "32 CH Local Field Potential recordings during social preference task in animals with bifrontal severe traumatic brain injury"}
+{"001042": "test set"}
+{"001043": "Seidemann2PhotonEmbargo"}
+{"001044": "Dataset of long-term multi-site LFP activity with spontaneous chronic seizures recorded in temporal lobe epilepsy rats."}
+{"001045": "Comparison of Fluid Flow In the Pial Perivascular Spaces of Rats and Mice"}
+{"001046": "FALCON Benchmark B1: zebra finch RA Neuropixels recordings during birdsong"}
+{"001047": "Optimizing NG-CanCan Protocol Delivery with MHz Compression to Minimize Near-Electrode Ablation"}
+{"001048": "Plasma membrane conductance changes in response to supraphysiological hyperpolarization"}
+{"001049": "test"}
+{"001051": "Large-scale Neuropixels recordings through SHIELD implant during visual change detection task with dynamic gating of engagement"}
+{"001052": "Acute Random and FixedBurst stim in MFB and mPFC using Neuropixels in NAc"}
+{"001054": "Hippocampal stimulation during temporal lobe seizure"}
+{"001055": "NeuroTask - Random Target:  A Benchmark Dataset for Multi-Task, -Session and -Subject Neural Analysis"}
+{"001056": "NeuroTask - Center-Out with bump: A Benchmark Dataset for Multi-Task, -Session and -Subject Neural Analysis"}
+{"001057": "NeuroTask - Center-Out Target Task: A Benchmark Dataset for Multi-Task, -Session and -Subject Neural Analysis"}
+{"001058": "NeuroTask - Two Workspace Random Target: A Benchmark Dataset for Multi-Task, -Session and -Subject Neural Analysis"}
+{"001059": "NeuroTask - Key Grasp: A Benchmark Dataset for Multi-Task, -Session and -Subject Neural Analysis"}
+{"001060": "NeuroTask - Isometric Wrist Task: A Benchmark Dataset for Multi-Task, -Session and -Subject Neural Analysis"}
+{"001061": "test"}
+{"001062": "Marmoset electrophysiology and kinematics during prey capture (monkey MG)"}
+{"001063": "Broken time reversal symmetry in motion detection"}
+{"001064": "Broken time reversal symmetry in motion detection"}
+{"001065": "Areal specializations in the morpho-electric and transcriptomic properties of layer 5 extratelencephalic-projecting neurons in the primate neocortex"}
+{"001066": "Testing the Dandi"}
+{"001067": "Multiplexed Sensing and Control of Neuromodulators and Peptides in the Awake Brain"}
+{"001069": "SN recording during Temporal lobe seizures"}
+{"001070": "LITMUS: Rat-based motor unit dataset with 0 STD waveform shape variability"}
+{"001071": "LITMUS: Rat-based motor unit dataset with 2 STD waveform shape variability"}
+{"001072": "LITMUS: Rat-based motor unit dataset with 4 STD waveform shape variability"}
+{"001073": "LITMUS: Rat-based simulated motor unit dataset with 3 levels of waveform shape variability"}
+{"001074": "Multiplexed optical recording of sensors on a micro-endoscope (MORSE)"}
+{"001075": "Neural signal propagation atlas of Caenorhabditis elegans"}
+{"001076": "OMR Robot CaImaging"}
+{"001078": "NeuroTask - Maze Task: A Benchmark Dataset for Multi-Task, -Session and -Subject Neural Analysis"}
+{"001079": "Sharp Wave Ripples in Publicly Available Neuropixels Datasets"}
+{"001083": "Test Zarr File with Consolidated Metadata"}
+{"001084": "Targeted micro-fiber arrays for measuring and manipulating localized multi-scale neural dynamics over large, deep brain volumes during behavior"}
+{"001085": "test"}
+{"001086": "Trey Trial Dataset"}
+{"001087": "Identification of eupnea"}
+{"001091": "Wang & Feldman 2024 Tactile Coding in Cntnap2-/- Mice"}
+{"001092": "HaloTag Time-Stamping of cFos Transcription in Mouse Brain"}
+{"001093": "HaloTag Time-Stamping of cFos Transcription in Mouse Brain"}
+{"001094": "HaloTag Time-Stamping of cFos Transcription in Mouse Brain"}
+{"001095": "tmptitle"}
+{"001096": "Data for Figure 2 (Early vs Late Evoked Timing)"}
+{"001097": "Encoding of female mating dynamics by a hypothalamic line attractor"}
+{"001130": "Aberrant Striatal Activity in Parkinsonism and Levodopa-Induced Dyskinesia"}
+{"001131": "A line attractor encoding a persistent internal state requires neuropeptide signaling"}
+{"001132": "Multimodal evaluation of network activity and optogenetic interventions in human hippocampal slices"}
+{"001133": "test hdmf zarr consolidated data"}
+{"001167": "Test Dandiset for Allen Institute Uploads"}
+{"001169": "Distinct value computations support rapid sequential decisions"}
+{"001170": "Mesoscale Two-Photon Calcium Imaging of Population Level Odor Responses from the Mouse Olfactory Bulb"}
+{"001171": "Data for: Whisker deprivation triggers a distinct form of cortical homeostatic plasticity that is impaired in the Fmr1 KO"}
+{"001172": "Dual-color mesoscopic imaging of both ACh and calcium across the neocortex of awake mice."}
+{"001174": "Calcium imaging in SMA and M1 of macaques"}
+{"001175": "TEST Sharp Wave Ripples Derived from Allen Institute Visual Behavior Neuropixels Data"}
+{"001176": "Cortical acetylcholine dynamics are predicted by cholinergic axon activity and behavior state"}
+{"001177": "Abnormal Striatal Activity in a Mouse Model of Impulse Control Disorder in Parkinson\u2019s Disease"}
+{"001181": "Peptidergic neurons in error computations and behavioral flexibility"}
+{"001182": "Stimulus-specific hypothalamic encoding of a persistent defensive state"}
+{"001183": "Neural circuits for social modulation of a persistent negative emotional state"}
+{"001184": "Brain-wide microstrokes affect the stability of memory circuits in the hippocampus"}
+{"001185": "Brain-wide microstrokes affect the stability of memory circuits in the hippocampus"}
+{"001186": "Neural circuits for social modulation of a persistent negative emotional state"}
+{"001187": "Data for: Daume et al. (2024) \"Persistent activity during working memory maintenance predicts long-term memory formation in the human hippocampus\""}
+{"001188": "A combinatorial neural code for long-term motor memory."}
+{"001189": "Deprecated Dandiset"}
+{"001190": "In vivo Calcium Imaging: Genotype Data: NOR"}
+{"001191": "Allen Institute Openscope - Loop project"}
+{"001192": "2-Photon imaging data for Cui el al. 2024"}
+{"001193": "Data for: Distinct spatiotemporal patterns of syntactic and semantic processing in human inferior frontal gyrus"}
+{"001194": "Identification of eupneic breathing using machine learning"}
+{"001195": "Separable Dorsal Raphe Dopamine Projections Mediate the Facets of Loneliness-like State"}
+{"001197": "Single-unit auditory nerve fibre responses of young-adult and aging gerbils"}
+{"001199": "Neural Pathways Modulation in the Anesthetized Rat Elicited by Trials of Transcranial Focused Ultrasound Stimulation"}
+{"001200": "Neural Spiking Data in Rats Responding to Optogenetic Stimulation and Transcranial Focused Ultrasound Stimulation in Neural Pathway"}
+{"001201": "LINK: Long-Term Intracortical Neural Activity and Kinematics"}
+{"001202": "Neural Spike Time Response recorded by NET Probe Soft Electrode in the Primary Somatosensory Cortex with Phased Ultrasound Array Stimulation"}
+{"001203": "Data supporting \"Amygdalostriatal transition zone neurons encode sustained valence to direct conditioned behaviors\""}
+{"001205": "Adaptation to visual sparsity enhances responses to isolated stimuli"}
+{"001207": "KalmanNet for BMIs"}
+{"001208": "Rajalingham_Sohn_Jazayeri_MentalPong_NHP_DorsoMedialFrontalCortex"}
+{"001209": "FALCON Benchmark M1-B: primary motor cortex recordings in primate during reach-to-grasp task"}
+{"001210": "Intrinsic optical imaging (IOI) and GCaMP mouse brain data, with and without rigidified carotid artery"}
+{"001211": "Neurovascular impulse response function (IRF) during spontaneous activity differentially reflects intrinsic neuromodulation across cortical regions"}
+{"001212": "Individualized Target Selection of Closed-loop Electrical Stimulation for the Treatment of Spontaneous Temporal Lobe Epilepsy."}
+{"001245": "FALCON Benchmark B1 broadband: zebra finch RA Neuropixels recordings during birdsong"}
+{"001246": "Phase Sensitive Optical Coherence Tomography Local Axis Orientation"}
+{"001247": "Motor cortex recordings during motor learning (Lever press task)"}
+{"001248": "Standardized Neuromorphology Prototypes"}
+{"001249": "Ishii et al 2023"}
+{"001250": "Spike sorting biases and information loss in a detailed cortical model"}
+{"001251": "MH133062"}
+{"001252": "Olfactory bulb tracks breathing rhythms and place in freely-behaving mice"}
+{"001253": "An opponent striatal circuit for distributional reinforcement learning"}
+{"001254": "Depth resolved psoct"}
+{"001256": "Cortical zinc dependent pupil changes to sound contrast"}
+{"001257": "Optogenetic activation reduces electrical coupling"}
+{"001258": "Nucleus accumbens dopamine release reflects Bayesian inference during instrumental learning"}
+{"001260": "A Prefrontal Cortex Map based on Single Neuron Activity"}
+{"001261": "BLA-projecting NBM/SI neurons in mouse and macaque"}
+{"001262": "Single-unit auditory nerve fibre responses of young-adult and aging gerbils"}
+{"001263": "Homophilic wiring principles underpin  neuronal network topology in vitro"}
+{"001266": "Dendritic excitations govern back-propagation via a spike-rate accelerometer"}
+{"001267": "Preliminary_Testing"}
+{"001269": "Dendritic excitations govern back-propagation via a spike-rate accelerometer"}
+{"001270": "Dendritic excitations govern back-propagation via a spike-rate accelerometer"}
+{"001271": "Tetrodotoxin Blockade of Sodium Channels Abolishes Action Potential Formation During Intense Sinewave Stimulation"}
+{"001272": "The Use of Di8-ANEPPS to Evaluate Neuronal Sensitivity to Unmodulated Sine Waves"}
+{"001273": "Kinetics of Membrane Charging and Its Dependence on Neuron Shape and Alignment with the Electric Field"}
+{"001274": "Characterization of Plasma Membrane Polarization in Hippocampal Neurons During Sine Wave and Modulated Sine Wave Stimulation"}
+{"001275": "Mental navigation primate PPC Neupane_Fiete_Jazayeri"}
+{"001276": "NG-CANCAN Remote Targeting Electroporation: Impact of Burst Number Variation on Permeabilization Distribution in Confluent Cell Monolayers"}
+{"001277": "NG-CANCAN Remote Targeting Electroporation: Impact of Pulse Duration and Protocol Delivery Frequency"}
+{"001278": "NIH BRAIN CONNECTS - LINC UM1 - Human Data"}
+{"001280": "Closed-loop modulation of remote hippocampal representations with neurofeedback"}
+{"001281": "Electrophysiology and Morphology of Human Cortical Supragranular Pyramidal Cells in a Wide Age Range"}
+{"001282": "Neuropixels 1.0-NHP insertion datasets"}
+{"001283": "Is there a ubiquitous spectrolaminar motif of local field potential power across the primate neocortex?"}
+{"001284": "NG-CANCAN Remote Targeting Electroporation: Focused Cell Electroporation and Ablation in a Pseudo-3D Model"}
+{"001285": "EEG Anesthesia Dataset"}
+{"001286": "Anesthesia EEG Dataset"}
+{"001287": "Anesthesia EEG Dataset"}
+{"001289": "IronTract Challenge - Public dMRI data"}
+{"001290": "Neuropixels pulsation datasets"}
+{"001291": "Imaging the voltage of neurons distributed across entire brains of larval zebrafish"}
+{"001292": "Functional properties of corticothalamic circuits targeting paraventricular thalamic neurons"}
+{"001325": "Example"}
+{"001326": "Brain-wide mouse electrophysiology during aversive stimuli and ketamine"}
+{"001327": "High-speed imaging of evoked rodent mechanical behaviors yields variable results that are not predictive of inflammatory injury"}
+{"001328": "Hippocampal recording from rats performing alternation task"}
+{"001330": "MC_Cycle: macaque motor cortex spiking activity during cycling"}
+{"001332": "APOL7C_3D: A High-Resolution 3D Electron Microscopy Dataset for Automated Multiclass Segmentation"}
+{"001333": "Parkinson's Electrophysiological Signal Dataset (PESD)"}
+{"001334": "EMBER"}
+{"001335": "Neuropixels Recordings from Hippocampus of head-fixed mice during odor presentation"}
+{"001336": "Neuromodulation in neural organoids with shell MEAs"}
+{"001337": "Fixed hot/cold stim medulla"}
+{"001339": "Fixed hot/cold stim trigeminal ganglion"}
+{"001340": "Nucleus accumbens dopamine release reflects Bayesian inference during instrumental learning"}
+{"001341": "Barrel cortex electrophysiology during tactile VR whisker-guided navigation"}
+{"001342": "Placeholder Unembargoed Dandiset"}
+{"001344": "Cortical Circuits for the integration of short-latency auditory pathways: Auditory Cortex retrograde tracing"}
+{"001345": "Cortical Circuits for the integration of short-latency auditory pathways: MGN retrograde tracing"}
+{"001346": "Cortical Circuits for the integration of short-latency auditory pathways: Inferior Colliculus retrograde tracing"}
+{"001347": "Brain-wide human electrophysiology during aversive stimuli and ketamine"}
+{"001348": "20250331_AIBS_Patchseq_nonhuman_primate"}
+{"001349": "From Initial Formation to Developmental Refinement: GABAergic Inputs Shape Neuronal Subnetworks in the Primary Somatosensory Cortex"}
+{"001350": "TEM Images of Corpus Callosum in Flox/SRF-cKO Mice"}
+{"001351": "20250331_AIBS_Patchseq_mouse"}
+{"001353": "Cortical Circuits for the integration of short-latency auditory pathways: Rabies disynaptic tracing from L6 of auditory cortex"}
+{"001354": "Hippocampal neuronal responses to programmable antigen-gated G-protein-coupled engineered receptor activation"}
+{"001355": "MaxOne_Culture"}
+{"001356": "Infralimbic parvalbumin neural activity facilitates cued threat avoidance"}
+{"001357": "High-Density Recording Reveals Sparse Clusters (But Not Columns) for Shape and Texture Encoding in Macaque V4"}
+{"001358": "Neural correlates of crowding in macaque area V4"}
+{"001359": "20250331_AIBS_Patchseq_human"}
+{"001360": "Sosa et al. 2025, A flexible hippocampal population code for experience relative to reward"}
+{"001361": "A flexible hippocampal population code for experience relative to reward"}
+{"001362": "CATNIP Analysis of light sheet imaging of whole-brain c-Fos immunostaining in constitutive PACAP-knockout and control PACAP-flox/flox mice"}
+{"001363": "Neural Spiking Data in the Rat Somatosensory Cortex Using a Flexible Electrode Responding to Transcranial Focused Ultrasound"}
+{"001364": "Photoacoustic mapping via an optical detection method for PA field characterization"}
+{"001366": "Comparison of Approaches for Surface Vessel Diameter and Pulsatility Quantification"}
+{"001367": "Adolescent alcohol exposure, mechanical allodynia, and synaptic function at inputs from the basolateral amygdala to the prelimbic cortex"}
+{"001369": "Circuit dynamics of the olfactory pathway during olfactory learning. Frontiers in neural circuits."}
+{"001370": "Carta et al. Nature Communications"}
+{"001371": "New information triggers prospective codes to adapt for flexible navigation"}
+{"001372": "NIH BRAIN CONNECTS - LINC UM1 - Macaque Data"}
+{"001373": "EEG Recordings in the Intrahippocampal Kainic Acid Mouse Model"}
+{"001374": "Self-Organizing Neural Networks in Organoids Reveal Principles of Forebrain Circuit Assembly"}
+{"001375": "Septum GABA disruption with DREADDs"}
+{"001376": "Automatic classification of seizure Onset pattern"}
+{"001409": "Swallow Traces"}
+{"001410": "Swallow NuAM Images"}
+{"001412": "NIH BRAIN CONNECTS - LINC UM1 - Macaque + Mouse Data - Scratch"}
+{"001413": "Calcium imaging of motor cortex during arm reaching tasks"}
+{"001414": "Cerebral Blood Flow is Modulated by Astrocytic cAMP Elevation Independently of IP3R2-Mediated Ca2+ Signaling in Mice"}
+{"001415": "Region-specific Nucleus Accumbens Dopamine Signals Encode Distinct Aspects of Avoidance Learning"}
+{"001416": "Allen Institute OpenScope - Psycode Legacy"}
+{"001417": "Allen Institute OpenScope - Psycode"}
+{"001419": "Cortical Circuits for the integration of short-latency auditory pathways: Auditory cortex linear probe recording"}
+{"001420": "Cortical Circuits for the integration of short-latency auditory pathways: Inferior colliculus linear probe recording"}
+{"001421": "Cortical Circuits for the integration of short-latency auditory pathways: MGN linear probe recording"}
+{"001424": "Predictive Processing Community - SLAP2"}
+{"001425": "BraiDyn-BC: mouse cued-lever-pull task dataset"}
+{"001428": "Hippocampal Neural Dynamics and Postoperative Delirium-Like Behavior in Aged Mice"}
+{"001429": "Stimulus representations in visual cortex shaped by attention and microsaccades"}
+{"001430": "Aging-associated decrease of PGC-1\u03b1 promotes pain chronification"}
+{"001431": "A dataset of stimulus evoked spiking timestamps from same neurons across multiple days recorded with advanced electrodes"}
+{"001432": "Freely moving mouse 3d tracking and neural data"}
+{"001433": "Breathing rhythm and place dataset"}
+{"001434": "Distinct spatially organized striatum-wide acetylcholine dynamics for the learning and extinction of Pavlovian associations"}
+{"001435": "Evidence accumulation from experience and observation in the cingulate cortex"}
+{"001436": "TEM Images of  Corpus Callosum in Control and Cuprizone-Intoxicated Mice with Axon and Myelin Segmentations"}
+{"001437": "Acquisition and Analysis of Ex Vivo MRI and Neuropathology in healthy and VCID subjects"}
+{"001438": "Old rats persistently switch between allocentric and procedural strategies across learning of the Morris watermaze"}
+{"001439": "Hebb's Vision V1 DeepDive"}
+{"001440": "Bright-Field Images of Rat Nerves at Different Regeneration Stages with Axon and Myelin Segmentations"}
+{"001441": "Hebb's Vision"}
+{"001442": "SEM Images of Rat Spinal Cord with Axon and Myelin Segmentations"}
+{"001443": "SEM Images of Rat Spinal Cord with Axon and Myelin Segmentations"}
+{"001444": "Simulated mouse primary motor cortex activity during control and decreased pyramidal tract neuron excitability in the parkinsonian condition"}
+{"001445": "In Vivo Electrochemical Impedance Spectroscopy - G3"}
+{"001446": "Genetic screening for regulating neuronal ECM assembly in cultured hippocampal neurons."}
+{"001447": "Genetic screening for neuronal ECM assembly"}
+{"001448": "Genetic screening for neuronal ECM assembly in the cultured hippocampal neurons"}
+{"001449": "Opioid-neural-activity-map"}
+{"001450": "Test NeuroPAL SCAPE"}
+{"001451": "Synaptic connectivity of central nucleus of the amygdala with GABA and glutamate expressing neurons in the nucleus of the solitary tract"}
+{"001452": "Electrophysiological validation of striatal neurons and dopamine neurons in D1-Cre, A2a-Cre, D1-FlpO, A2a-FlpO, DAT-FlpO transgenic mice"}
+{"001453": "Neural circuits underlying divergent visuomotor strategies of zebrafish and Danionella cerebrum"}
+{"001454": "Social isolation recruits amygdala-cortical circuitry to escalate alcohol drinking Part 1: in vivo calcium and behavior data"}
+{"001455": "20250630_AIBS_Patchseq_Mouse"}
+{"001456": "Data for Rtrack Analysis"}
+{"001458": "Trusel et al. 2025 - ephys files"}
+{"001459": "Electrophysiology Data from Trusel et al., eLife 2025; https://doi.org/10.7554/eLife.104609.1"}
+{"001460": "Craniocerebral skull and vasculature stitched datasets"}
+{"001461": "OpenScope Texture"}
+{"001462": "1R01NS138075-01"}
+{"001463": "1R01NS138075-01"}
+{"001464": "20250627_AIBS_Patchseq_human"}
+{"001465": "20250627_AIBS_Patchseq_nonhuman_primate"}
+{"001466": "Mouse forelimb directed cued reaching premotor and primary motor cortex"}
+{"001467": "My Seizure Gauge In-hospital Wearable Recordings"}
+{"001468": "My Seizure Gauge- At-home Ambulatory Wearable Data Recordings"}
+{"001469": "SpinalCordNET"}
+{"001470": "Representation of predictable and unpredictable odor sequences in the mouse hippocampus"}
+{"001472": "Separating cognitive and motor processes in the behaving mouse"}
+{"001473": "R01 NS121918 data"}
+{"001474": "Obesity dysregulates feeding-evoked response dynamics in hypothalamic satiety neurons"}
+{"001475": "NHP patch-seq"}
+{"001476": "Endogenous retrovirus-like proteins recruit UBQLN2 to stress granules and shape their functional biology"}
+{"001509": "Data for: R01 NS121918"}
+{"001510": "Whole-Cell Patch-Clamp and Fluorescence Imaging of SuM Neurons in Mouse Brain Slices"}
+{"001511": "Optically tagged oxytocin neuron recordings from female mouse PVN"}
+{"001512": "Optically tagged oxytocin neuron recordings from female mouse PVN"}
+{"001513": "Human Brainstem Connectome"}
+{"001514": "Collateralization patterns of principal basolateral amygdala neurons delineate distinct output streams"}
+{"001515": "Plasma Membrane Polarization Dynamics of CHO Cells During 1 us Pulses: Effects of Cell Size and Electric Field Strength"}
+{"001516": "Plasma Membrane Recovery of Cells Following 1 us Electroporation Pulse"}
+{"001517": "Evaluation of Di-8-ANEPPS Compatibility with Strobe Fluorescence Microscopy for Membrane Voltage Imaging"}
+{"001518": "Comparison of FluoVolt and Di-8-ANEPPS Responses to Plasma Membrane Polarization at Varying Electric Field Strengths"}
+{"001521": "Threshold Characterization of Ca2+ Uptake in CHO Cells Following 1-\u00b5s Electroporation Pulses"}
+{"001523": "LSENS_Neuropixel data set"}
+{"001525": "Characterization of Plasma Membrane Recovery in Cells After 1-\u00b5s Electroporation Using Strobe Fluorescence Microscopy"}
+{"001526": "Assessment of Post-Electroporation Suitability of CHO Cells for Polarization Studies Using Strobe Fluorescence Microscopy"}
+{"001527": "3D directional tuning in OSMCx during natural feeding and drinking"}
+{"001529": "Source data for Buczynski et. al., ACS Chem Neurosci, 2025."}
+{"001530": "Contextual gating of whisker-evoked responses by frontal cortex supports flexible decision making"}
+{"001532": "Two-photon calcium imaging of responses to drifting gratings and natural movies in the mouse visual cortex and Spatial transcriptomics data"}
+{"001533": "IBL - Brain Wide Map"}
+{"001534": "20250707_Patchseq_BICAN_R01_Neuromodulation_mouse"}
+{"001535": "Sampling representational plasticity of simple imagined movements across days enables long-term neuroprosthetic control"}
+{"001537": "Capillaries susceptible to frequent stall dynamics revealed by comparing OCT and Bessel-2PM measurements"}
+{"001538": "State-dependent modulation of spiny projection neurons controls levodopa-induced dyskinesia in a mouse model of Parkinson\u2019s disease"}
+{"001539": "Odor-Place Spatial Association Task"}
+{"001540": "Continual, Multi-Day Recordings From Rat Hippocampus"}
+{"001541": "Mapping of blood flow and slow speckle tissue dynamics using laser speckle contrast imaging"}
+{"001542": "LC15 Distance Estimation Data"}
+{"001543": "Neurovascular impulse response function (IRF) during spontaneous activity differentially reflects intrinsic neuromodulation across cortical regions"}
+{"001544": "Distinct subpopulations of ventral pallidal cholinergic projection neurons encode valence of olfactory stimuli"}
+{"001545": "Diversification of dentate gyrus granule cell subtypes is regulated by Nrg1 nuclear back-signaling"}
+{"001546": "2-Photon Optimized Light-Beads-Microscopy Test Data"}
+{"001547": "VARX iEEG sample data"}
+{"001549": "Neural Spiking Data Responding to Transcranial Focused Ultrasound Stimulation in Freely Moving Rats"}
+{"001550": "Individual variability of neural computations underlying flexible decisions"}
+{"001552": "Floeder et al (2025) Mesolimbic dopamine ramps reflect environmental timescales"}
+{"001553": "Raw light-sheet voltage imaging datasets for larval zebrafish brains"}
+{"001556": "Practice"}
+{"001557": "Migroglia to neuron signaling affects neuronal network activity"}
+{"001558": "LFP Recordings in Macaque During Transcranial Focused Ultrasound Neuromodulation"}
+{"001559": "In-vivo Cortical Recording for eBRIC"}
+{"001560": "Cardin_Higley_SFARI_DS1"}
+{"001563": "Dual Enkephalinase Inhibitor Effects on Stress-Induced Reward Seeking Neural and Behavioral Deficits"}
+{"001564": "Dual Enkephalinase Inhibitor Effects on Stress-Induced Reward Seeking Neural and Behavioral Deficits"}
+{"001565": "Preliminary two-photon calcium imaging data for 1R01NS136988-01: The functional role and neural basis of rapid turns in olfactory search behavior"}
+{"001566": "Scn2a rat hippocampus"}
+{"001567": "EEG and LFP Raw Recordings of Rats Acutely Intoxicated With DFP"}
+{"001569": "Data associated with the manuscript \"improv: A software platform for real-time and adaptive neuroscience experiments\""}
+{"001603": "Preconfigured neuronal firing sequences in human brain organoids"}
+{"001605": "Two-photon calcium imaging of mouse PPC/PM during auditory virtual navigation (Funamizu et al. 2016)"}
+{"001606": "Raw data files from Jonaitis et al \"Differential modulation of feedforward inhibition reflects topographic organization in the olfactory system.\""}
+{"001607": "Optogenetic disruption of theta-timescale spiking"}
+{"001609": "Comparative anatomy of thermosensory projection neurons in Drosophila species"}
+{"001610": "Integrator dynamics in cortico-basal ganglia loop for flexible motor timing"}
+{"001611": "Spiking data of dissociated rat cortical cultures on HD-MEAs during repeated-stimulation experiment"}
+{"001612": "Dataset for Finkelstein et al. \"Connectivity underlying motor cortex activity during goal-directed behavior\" 2025"}
+{"001613": "Large-scale human intracranial electrophysiology and eye-tracking recordings from naturalistic image and movie stimuli"}
+{"001614": "braindance"}
+{"001616": "SUMMER: Dataset of human single-neuron activity during an 83-minute movie from 2,286 neurons and 29 patients"}
+{"001618": "DataJoint fractal analysis workflow"}
+{"001619": "A brainstem map of orofacial rhythms"}
+{"001620": "Transcriptional dysregulation in the spinal cord of SCA3 provides insights into disease mechanisms"}
+{"001621": "Establishing Sensory Neurons as Therapeutic Targets in Peripheral Neuropathy Driven by Polyglutamine Expanded ATXN3"}
+{"001622": "In vivo electrophysiology recordings from the ventral hippocampus of anesthetized rats"}
+{"001623": "C. elegans whole-brain imaging datasets (NeuroPAL and timeseries)"}
+{"001624": "Convergent comodulation reduces interindividual variability of circuit output"}
+{"001625": "20251020_AIBS_Patchseq_human"}
+{"001626": "20251020_AIBS_Patchseq_nhp"}
+{"001630": "Bright-Field Images of Rabbit Nerves from Nerve Repair Study with Axon and Myelin Segmentations"}
+{"001631": "Dataset for the paper \"Predictive Coding of Reward in the Hippocampus\""}
+{"001632": "Duration between rewards controls the rate of behavioral and dopaminergic learning"}
+{"001633": "Multimodal Neural Recordings with Neuro-FITM"}
+{"001634": "Disruption of theta-timescale spiking impairs learning but spares hippocampal replay"}
+{"001635": "Contralesional activity reflects compensation, while brainstem detour pathways support skilled motor recovery after stroke"}
+{"001636": "Pyramidal tract and corticostriatal neuron recordings in MPTP-treated macaque performing visuomotor tasks"}
+{"001637": "OpenScope Predictive Processing Community - Ecephys"}
+{"001638": "Micro-ECoG pseudoword speech repetition"}
+{"001639": "Anatomical and neuronal distribution of the G-coupled protein receptor 75 mRNA in the mouse central nervous system"}
+{"001640": "mouse PPC tetrode recording"}
+{"001641": "Neural activity in rat nucleus accumbens and ventral pallidum during probabilistic free-choice decision-making (Ito & Doya 2009)"}
+{"001642": "Neural activities in dorsolateral, dorsomedial, and ventral striatum during fixed- and free-choice tasks in rats (Ito & Doya 2015)"}
+{"001675": "~"}
+{"001676": "Months-long stability of the head-direction system"}
+{"001677": "Multi-electrode array recordings of rat retinal ganglion cells with LED stimulation for retinotectal cell identification via ReaChR phototagging"}
+{"001678": "Data for parametrizing alternating current stimulation for neuromodulation (Bell Vila, M., et al, 2026)"}
+{"001680": "EMUsort Rat Dataset: Simulated high-resolution multichannel EMG based on real rat recordings"}
+{"001681": "EMUsort Monkey Dataset: Simulated high-resolution multichannel EMG based on real monkey recordings"}
+{"001682": "foobaz"}
+{"001683": "Transcranial Focused Ultrasound Stimulation Targeting White Matter Inhibits Seizures in a Rat Model of Epilepsy"}
+{"001684": "Plitt & Turner Evans et al (2025)"}
+{"001685": "RESOLVE: high-Resolution Electrode System fOr LGN Visual Enhancement - Dr. Lan's Lab"}
+{"001686": "Retrograde transduction of dopaminergic cells in substantia nigra of rhesus monkey"}
+{"001687": "Data related to \"Xiao, Severson, et al. (2026) Peri-Head Distance Coding in the Mouse Brainstem\""}
+{"001688": "EMUsort Rat Datasets (Acquired): high-resolution multichannel EMG recordings with 3D motion tracking during treadmill locomotion"}
+{"001689": "Assessing Chance in Neuro-Vascular Interactions"}
+{"001690": "Cortical O2 supply and Metabolism Are Suppressed in the Aged Mice"}
+{"001691": "ortical O2 supply and Metabolism Are Suppressed in the Aged Mice"}
+{"001692": "An anatomical hotspot for striatal dopamine-acetylcholine interactions during reward and movement: multi-fiber photometry data"}
+{"001694": "Investigating the role of pH in presynaptic homeostatic potentiation at the vertebrate neuromuscular junction"}
+{"001695": "High-density extracellular recordings (Neuropixels/SiNAPS) of Hippocampal-Cortical dynamics during spatial behavior."}
+{"001697": "DANDI Compute"}
+{"001698": "Test Pose"}
+{"001700": "Loss of oxytocin receptor function disrupts neural signatures of pair bonding and fidelity in the nucleus accumbens"}
+{"001701": "Aery Jones et al (2026) Entorhinal cortex represents task-relevant remote locations independent of CA1"}
+{"001702": "Hippocampal CA2 Perineuronal Net Degradation and Social Memory Deficits in a 5XFAD Alzheimer\u2019s Disease Mouse Model"}
+{"001703": "Dataset of the Lateral Entorhinal Cortex Activity in APP-KI Mice"}
+{"001704": "Dopamine activation synchronizes hippocampal-prefrontal cortex oscillatory activity"}
+{"001705": "The direct regulation of feeding-driving hypothalamic GABAergic neurons on stress responses"}
+{"001706": "Flicker ERG"}
+{"001707": "NIH BICAN - Chung UM1"}
+{"001708": "Noxious stimulation and baseline recordings of ON, OFF and Neutral cells in the rat rostral ventromedial medulla"}
+{"001710": "Plitt & Kaganovsky et al (2026). Hippocampal place code plasticity in CA1 requires postsynaptic membrane fusion."}
+{"001712": "IBL Widefield"}
+{"001746": "Electrophysiological Dataset of Patch-seq Recording in non-Human Primate Anterior Insular Cortex"}
+{"001747": "SpikeCanvas: An IoT-Based Control Plane for Event-Driven Workflow Orchestration of  High-Density Neurophysiology Data"}
+{"001748": "20260213_AIBS_Patchseq_BICAN_R01_Neuromodulation_mouse"}
+{"001749": "Data supporting \"Cortical ensembles orchestrate social competition through hypothalamic outputs\" (Padilla-Correano, et al., Nature 2022)"}
+{"001750": "Electrophysiological Dataset of Somatic Sodium Channel Current Using Outside-out Recording in the Primate Anterior Insular Cortex"}
+{"001751": "Electrophysiological Dataset of Local Neuronal Microcircuits in the Primate Anterior Insular Cortex"}
+{"001752": "Electrophysiological Dataset of Neuronal Post-Synaptic Currents in the Primate Anterior Insular Cortex"}
+{"001753": "20260220_AIBS_Patchseq_BICAN_HMBA_macaque"}
+{"001754": "Three-dimensional spatial selectivity of hippocampal neurons during space flight"}
+{"001755": "Novel voltage-dependent Cl\u2212 channels in striatal medium spiny neurons are unrelated to ClC-1 or other known Ca2+-induced Cl\u2212 channel/transporter types"}
+{"001756": "Experience reorganizes content-specific memory traces in macaques"}
+{"001758": "UM1 test data"}
+{"001762": "Haber Lab Connectome - Public data"}
+{"001764": "Second Order Conditioning of Safety in Male and Female Rats"}
+{"001765": "Neuropixels recordings in anesthetized rats (saline vs. LSD) with intracranial electrical stimulation"}
+{"001766": "Mapping Slow Speckle Dynamics to Probe Cellular Metabolic Activity In Vivo using Laser Speckle Contrast Imaging"}
+{"001767": "Photometry data underlying the analyses in Chantranupong PMID: 37557915"}
+{"001768": "OpenScope Predictive Processing Community - Mesoscope"}
+{"001769": "NIH BRAIN CONNECTS - LINC UM1 - Human Data - Scratch"}
+{"001771": "Chronic Neuropixels recordings with 3D pose estimation via DANNCE during spontaneous exploration"}
+{"001773": "Fujimoto et al., Nat. Neurosci. 2026, Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks"}
+{"001775": "Mouse hippocampal electrophysiology during spatial working memory and consummatory behavior"}
+{"001776": "Intracellular Recordings for \"Single neuron diversity supports area functional specialization along the visual cortical pathways\""}
+{"001777": "Astrocytes mediate the dopaminergic modulation of tonic GABAergic signaling in Substanta nigra"}
+{"001778": "Two-photon calcium imaging of responses to drifting gratings and natural movies in the mouse visual cortex and Spatial transcriptomics data"}
+{"001779": "spikePathTool_directionalSignaling"}
+{"001780": "Allen Institute - V1 Deep Dive EM Mouse"}
+{"001782": "Mouse and NHP pre/post-lesion kinematic data"}
+{"001783": "Franklab curvenote demo"}
+{"001784": "3d tracking of mice performing string pulling"}
+{"001785": "MRI and histological data for: Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks"}
+{"001787": "Optical_LTMR"}
+{"001788": "Synchrony within Abeta mechanoreceptor subtypes governs signal propagation to primary somatosensory cortex"}
+{"001789": "Adenosine modulation of synaptic transmission in olfactory bulb circuits"}
+{"001790": "Visual gamma stimulation causes prolonged enhancement of low-frequency blood flow oscillations across cortical regions in mice"}
+{"001791": "Voltage dynamics of cortical dendrites in vivo"}
+{"001792": "Development of cerebellar nuclear cells"}
+{"001794": "High-density electrophysiology of the porcine optic nerve and visual cortex during visual and electrical stimulation"}
+{"001827": ": Direct Delivery of Modulated Kilohertz Frequency Waveforms Enable Simultaneous Electrical Stimulation and Recording with Minimal-Artifact"}
+{"001829": "Investigating the role of pH in presynaptic homeostatic potentiation at the vertebrate neuromuscular junction"}
+{"001830": "IMPAIRED M2-TO-STRIATUM GLUTAMATERGIC TRANSMISSION IN A CORTICAL DOMINANT A-SYN PATHOLOGY MODEL"}
+{"001832": "Cholinergic interneuron control of GABAergic circuits targeting spiny projection neurons is disrupted in parkinsonian models"}
+{"001833": "CYP2C11 Overexpression Targeting Peri-lesion Astrocytes to Improve Cognitive Function in Mice with Multi-infarct Dementia"}
+{"001835": "Injection of alpha-synuclein preformed fibrils into mouse M2 cortex impairs corticostriatal glutamate transmission compared to monomer injected mice"}
+{"001836": "Naturalistic behavior and self-generated neural activity predictive of self-correction"}
+{"001837": "In Vivo Electrochemical Impedance Spectroscopy - G4"}
+{"001838": "Global/Local Oddball project macaque monkey multi-area neurophysiology"}
+{"001839": "Data supporting \"Social Exclusion Amplifies Behavioral Responses to Physical Pain via Insular Neuromodulation\""}
+{"001840": "Cardiac dynamics of larval zebrafish in response to UV stimulus"}
+{"001841": "Cell type\u2013specific plasticity of deep-layer cortical neurons after noise trauma"}
+{"001842": "Rodent - Infralimbic - OpenEphys - UMN"}
+{"001843": "An Ultraresponsive Green Biosensor for Robust in Vivo Imaging of Synaptic Zinc Dynamics"}
+{"001844": "Nitric Oxide Refines Retinal Circuit Architecture Independently of Retinal Wave Dynamics"}
+{"001845": "Cooperative Behavior in WT and Fmr1 Rat Dyads"}
+{"001846": "CeA_DT3_allgroups"}
+{"001847": "Retrosplenial cortex enables context-dependent goal-directed sensorimotor transformation"}
+{"001848": "Complementary Roles of Cell-Type-Specific Plasticity in Shaping Neocortical Dynamics for Learning Action Timing"}
+{"001849": "Sample data for testing pipelines (such as AIND)"}
+{"001850": "3D \u00b5EFPocket for Multimodal Communications with Brain Organoids"}
+{"001851": "A multi-muscular, redundant strategy for free-flight roll stability behavioral data archive"}
+{"001853": "Juxtacellular and Extracellular hybrid data of same neuron with both devices"}
+{"001855": "20260623_AIBS_Patchseq_BICAN_human"}
+{"001856": "20260623_AIBS_Patchseq_BICAN_macaque"}
+{"001858": "20260623_AIBS_Patchseq_BICAN_R01_Neuromodulation_mouse"}
+{"001861": "1R01NS138075-02"}
+{"001863": "The impact of a psychedelic drug on olfactory search behavior by mice"}
+{"001865": "Inferring norepinephrine dynamics from partial observations reveals the temporal structure of elevations during arousal"}
+{"001866": "AD Behavioral Results"}
+{"001867": "Cortex-projecting basal forebrain PV neurons support sustained attention during auditory detection behavior"}
+{"001868": "Chronic electrophysiology and two-photon calcium imaging of mouse primary somatosensory cortex during intracortical microstimulation learning"}
+{"001869": "Unique neural activity states predict action selection in response to visual threat"}
+{"001870": "Asymmetric Prefrontal Representations for Leader-Follower Dynamics"}
+{"001871": "Data for fly navigational responses exploiting plume-specific odor motion and gradient cues"}
+{"001872": "The Statistical Analysis of Brain Organoid MEA Data"}
+{"001873": "DANDI Compute: Archive"}
+{"001874": "Multimodal acqusition of resting state using simultaneous intrinsic signal optical imaging and electrophysiology"}
+{"001875": "Multimodal characterization of sensorimotor peripheral neuropathy in a preclinical mouse model of SCA3"}
+{"001876": "Mesoscale two-photon voltage imaging of single  Layer 5 somata and their corresponding apical dendrites in mouse visual cortex"}
+{"001877": "Cell-Type-Specific Bidirectional Modulation of the Cortico\u2013Thalamo\u2013Cortical Sensory Pathway by Transcranial Focused Ultrasound (tFUS)"}
+{"001878": "Standardized behavioral segmentation datasets"}
+{"001879": "NeuroFlex: Simultaneous ECoG and sEEG Recordings in an Epileptic Seizure Model"}
+{"001880": "CA1 and CA3 electrophysiological dataset in mice performing a spatial memory task"}
+{"001881": "Simultaneous electrophysiology recordings from two linear arrays during resting state"}
+{"001882": "SalidoLab 2024.Genes paper. WVU humans with IMPG1/2 mutations"}
+{"001883": "SalidoLab 2024.Genes paper. WVU humans with IMPG1/2 mutations 2"}
+{"001884": "Chris v4PMA"}
+{"001885": "Close-Loop Deep Brain Optoacoustic Stimulation at Sub-millimeter Precision"}
+{"001887": "Transformations in prefrontal ensemble activity underlying rapid threat avoidance learning"}
+{"001888": "EEG recordings from a Grin2b+/- rat model of GRIN2B neurodevelopmental disorder: absence seizures and sleep-wake abnormalities"}
+{"001889": "Multicontext VR memory location task"}
+{"001891": "Effort prediction errors encoded by nigrostriatal dopamine"}
+{"001893": "Patch-seq profiling of mouse locus coeruleus norepinephrine neurons"}
+{"001927": "Repeatable, low-drift recordings in behaving non-human primates using flexible microelectrodes"}
+{"001928": "Allen Institute - V1 Deep Dive Additional Mice"}
+{"001930": "Motor behavior and IHC data from A53TSyn mice"}
+{"001931": "IHS SBIR Grant 1R43DC021116-01A1 Delgado PI eeABR Data Set"}
+{"001932": "Test LSENS"}
+{"001934": "Safety Discrimination Fiber Photometry Data in Rat Insular Cortex"}
+{"001937": "R21HD114995 ABR/Behavioral Data"}
