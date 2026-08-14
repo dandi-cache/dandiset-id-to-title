@@ -662,12 +662,12 @@
 {"001413": "Calcium imaging of motor cortex during arm reaching tasks"}
 {"001414": "Cerebral Blood Flow is Modulated by Astrocytic cAMP Elevation Independently of IP3R2-Mediated Ca2+ Signaling in Mice"}
 {"001415": "Region-specific Nucleus Accumbens Dopamine Signals Encode Distinct Aspects of Avoidance Learning"}
-{"001416": "Allen Institute OpenScope - Psycode Legacy"}
+{"001416": "Allen Institute OpenScope - Psycode (Legacy)"}
 {"001417": "Allen Institute OpenScope - Psycode"}
 {"001419": "Cortical Circuits for the integration of short-latency auditory pathways: Auditory cortex linear probe recording"}
 {"001420": "Cortical Circuits for the integration of short-latency auditory pathways: Inferior colliculus linear probe recording"}
 {"001421": "Cortical Circuits for the integration of short-latency auditory pathways: MGN linear probe recording"}
-{"001424": "Predictive Processing Community - SLAP2"}
+{"001424": "Allen Institute OpenScope - Predictive Processing (SLAP2)"}
 {"001425": "BraiDyn-BC: mouse cued-lever-pull task dataset"}
 {"001428": "Hippocampal Neural Dynamics and Postoperative Delirium-Like Behavior in Aged Mice"}
 {"001429": "Stimulus representations in visual cortex shaped by attention and microsaccades"}
@@ -701,7 +701,7 @@
 {"001458": "Trusel et al. 2025 - ephys files"}
 {"001459": "Electrophysiology Data from Trusel et al., eLife 2025; https://doi.org/10.7554/eLife.104609.1"}
 {"001460": "Craniocerebral skull and vasculature stitched datasets"}
-{"001461": "OpenScope Texture"}
+{"001461": "Allen Institute OpenScope - Texture"}
 {"001462": "1R01NS138075-01"}
 {"001463": "1R01NS138075-01"}
 {"001464": "20250627_AIBS_Patchseq_human"}
@@ -790,7 +790,7 @@
 {"001634": "Disruption of theta-timescale spiking impairs learning but spares hippocampal replay"}
 {"001635": "Contralesional activity reflects compensation, while brainstem detour pathways support skilled motor recovery after stroke"}
 {"001636": "Pyramidal tract and corticostriatal neuron recordings in MPTP-treated macaque performing visuomotor tasks"}
-{"001637": "OpenScope Predictive Processing Community - Ecephys"}
+{"001637": "Allen Institute OpenScope - Predictive Processing (Ecephys)"}
 {"001638": "Micro-ECoG pseudoword speech repetition"}
 {"001639": "Anatomical and neuronal distribution of the G-coupled protein receptor 75 mRNA in the mouse central nervous system"}
 {"001640": "mouse PPC tetrode recording"}
@@ -845,7 +845,7 @@
 {"001765": "Neuropixels recordings in anesthetized rats (saline vs. LSD) with intracranial electrical stimulation"}
 {"001766": "Mapping Slow Speckle Dynamics to Probe Cellular Metabolic Activity In Vivo using Laser Speckle Contrast Imaging"}
 {"001767": "Photometry data underlying the analyses in Chantranupong PMID: 37557915"}
-{"001768": "OpenScope Predictive Processing Community - Mesoscope"}
+{"001768": "Allen Institute OpenScope - Predictive Processing (Mesoscope)"}
 {"001769": "NIH BRAIN CONNECTS - LINC UM1 - Human Data - Scratch"}
 {"001771": "Chronic Neuropixels recordings with 3D pose estimation via DANNCE during spontaneous exploration"}
 {"001773": "Fujimoto et al., Nat. Neurosci. 2026, Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks"}
