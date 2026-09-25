@@ -1,0 +1,3 @@
+2026-09-25T03:37:18Z INFO Logging to /tmp/logs/update_2026-09-25T03-37-18Z.log.
+2026-09-25T03:37:18Z INFO Update dandiset-id-to-title (base directory /tmp).
+2026-09-25T03:37:26Z INFO Wrote 960 records to /tmp/derivatives/dandiset_id_to_title.jsonl in 0.1 min (peak memory 67 MiB).
