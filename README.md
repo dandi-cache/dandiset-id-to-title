@@ -10,6 +10,10 @@ Updated daily, since a Dandiset's title can change at any time.
 
 Primarily for use by developers.
 
+A second file, `derivatives/dandiset_id_to_title_checked_at.jsonl`, records the UTC date each Dandiset was last read, whether or not the read succeeded.
+It is bookkeeping rather than data: it is what lets a run that cannot reach every Dandiset read the ones it has gone longest without, instead of the same prefix of the listing each time.
+Every Dandiset is read on every run at the archive's present size, so in practice the dates move together.
+
 
 
 ## One-time use
