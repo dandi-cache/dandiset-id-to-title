@@ -6,7 +6,7 @@ For every Dandiset, this cache reads the `name` field from the `draft` version's
 
 The cache is accumulative: a Dandiset's title is refreshed whenever it is readable, and its last known title is retained if the Dandiset later becomes embargoed or otherwise unreadable, rather than being dropped from the map.
 
-Updated daily, since a Dandiset's title can change at any time.
+Updated every six hours, since a Dandiset's title can change at any time.
 
 Primarily for use by developers.
 
