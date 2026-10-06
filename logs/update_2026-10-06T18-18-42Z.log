@@ -1,0 +1,4 @@
+2026-10-06T18:18:42Z INFO Logging to /tmp/logs/update_2026-10-06T18-18-42Z.log.
+2026-10-06T18:18:42Z INFO Update dandiset-id-to-title (base directory /tmp).
+2026-10-06T18:18:43Z INFO Reading 1249 of 1249 Dandisets this run.
+2026-10-06T18:18:51Z INFO Wrote 970 records to /tmp/derivatives/dandiset_id_to_title.jsonl in 0.1 min (peak memory 68 MiB).
