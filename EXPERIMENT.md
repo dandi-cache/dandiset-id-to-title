@@ -60,3 +60,7 @@ Its data is 78 KB, so the plain sorted JSONL already gives line-level diffs and 
 The Zarr store costs a 90 MB working file, about 4x the pack size and about a 7x larger delta, and needs changes in the shared library and `dist`.
 It only pays off for an output that is hundreds of MB and append-mostly, where rewriting the whole file each run is the problem.
 If a large append-only cache appears, revisit it there, with a key to offset index and a compaction policy, and put it in `dandi-cache-utils`.
+
+## Found while publishing the example
+
+The repository's own `pre-commit.ci` hooks (`end-of-file-fixer`, `trailing-whitespace`) treated the chunk files as ordinary text and "fixed" them: they stripped the newline padding from the end of `c/3` and the trailing newline from `c/0`–`c/2` and `zarr.json`. That shortens the chunks below their declared size, which corrupts the store. Anything that normalizes whitespace in text files — these hooks, an editor's save settings, `.gitattributes` text conversion — would do the same, so a repository adopting this layout must exclude the store from them (here, `example/` is excluded in `.pre-commit-config.yaml`). This is one more cost of presenting binary-framed data as text.
