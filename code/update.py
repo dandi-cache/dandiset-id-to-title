@@ -22,8 +22,10 @@ Lines writing, the unsigned S3 client, the listing and the metadata reader -- co
 """
 
 import datetime
+import json
 
 import dandi_cache_utils as dandi_cache
+import zarr_store
 
 #: The side output: when each Dandiset was last *attempted*, read or not, which is what
 #: orders the batch once there are more Dandisets than one run reads. Stamping the
@@ -44,7 +46,10 @@ def main() -> None:
         title = None if metadata is None else metadata.get("name")
         return None if title is None else (dandiset_id, title)
 
-    records = dataset.read_output_lookup()
+    # EXPERIMENT: prior titles come from the Zarr byte stream, falling back to the JSONL on the first run.
+    store_path = dataset.output_file_path().with_suffix(".zarr")
+    records = zarr_store.read_lookup(store_path) if store_path.exists() else dataset.read_output_lookup()
+    prior = dict(records)
     checked_at = dataset.read_output_lookup(CHECKED_AT)
 
     def build() -> list[dict]:
@@ -78,6 +83,9 @@ def main() -> None:
         # title rather than disappearing from the cache.
         today = datetime.datetime.now(tz=datetime.UTC).date().isoformat()
         records.update(titles)
+        # EXPERIMENT: log-style append of only the new or changed titles. The first run seeds the whole cache.
+        changed = {key: value for key, value in records.items() if prior.get(key) != value}
+        zarr_store.append_lines(store_path, (json.dumps({key: changed[key]}) for key in sorted(changed)))
         # Every Dandiset this run attempted, not only the ones that answered: an unreadable one is
         # still done for now, and stamping it is what lets the batch move past it next run.
         checked_at.update(dict.fromkeys(batch, today))
