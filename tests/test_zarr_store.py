@@ -3,6 +3,7 @@ import pathlib
 import subprocess
 
 import pytest
+import zarr
 import zarr_store
 
 CHUNK = 1_000
@@ -13,7 +14,7 @@ def make_lines(start: int, count: int) -> list[str]:
 
 
 def chunk_files(store: pathlib.Path) -> list[pathlib.Path]:
-    return sorted((store / "c").iterdir(), key=lambda path: int(path.name))
+    return sorted((store / "stream" / "c").iterdir(), key=lambda path: int(path.name))
 
 
 @pytest.mark.ai_generated
@@ -58,11 +59,35 @@ def test_missing_store_reads_empty(tmp_path):
 
 
 @pytest.mark.ai_generated
-def test_record_straddling_chunk_boundary(tmp_path):
+def test_no_record_straddles_a_chunk_boundary(tmp_path):
     store = tmp_path / "out.zarr"
-    lines = [json.dumps({"k": "x" * 150}), json.dumps({"j": "y" * 150})]
-    zarr_store.append_lines(store, lines, chunk_bytes=100)
+    lines = [json.dumps({f"{index:03d}": "x" * (40 + index % 50)}) for index in range(60)]
+    zarr_store.append_lines(store, lines[:30], chunk_bytes=300)
+    zarr_store.append_lines(store, lines[30:], chunk_bytes=300)
+
+    assert len(chunk_files(store)) > 3
+    seen = []
+    for path in chunk_files(store):
+        for line in path.read_text().splitlines():
+            if line.strip():
+                seen.append(json.loads(line))
+    assert seen == [json.loads(line) for line in lines]
     assert list(zarr_store.iter_lines(store)) == lines
+
+
+@pytest.mark.ai_generated
+def test_a_record_longer_than_a_chunk_is_refused(tmp_path):
+    with pytest.raises(ValueError, match="does not fit"):
+        zarr_store.append_lines(tmp_path / "out.zarr", [json.dumps({"k": "x" * 200})], chunk_bytes=100)
+
+
+@pytest.mark.ai_generated
+def test_consolidated_metadata_tracks_the_length_after_each_append(tmp_path):
+    store = tmp_path / "out.zarr"
+    for start in (0, 50):
+        zarr_store.append_lines(store, make_lines(start, 50), chunk_bytes=CHUNK)
+        consolidated = json.loads((store / "zarr.json").read_text())["consolidated_metadata"]["metadata"]
+        assert consolidated["stream"]["shape"] == [zarr.open_group(store, mode="r")["stream"].shape[0]]
 
 
 def git(repo: pathlib.Path, *args: str) -> str:
