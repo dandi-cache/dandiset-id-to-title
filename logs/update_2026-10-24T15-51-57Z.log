@@ -1,0 +1,5 @@
+2026-10-24T15:51:57Z INFO Logging to /tmp/logs/update_2026-10-24T15-51-57Z.log.
+2026-10-24T15:51:57Z INFO Update dandiset-id-to-title (base directory /tmp).
+2026-10-24T15:51:59Z INFO Reading 1265 of 1265 Dandisets this run.
+2026-10-24T15:52:07Z INFO Progress: 1,265 of 1,265 candidates recorded (100.0%).
+2026-10-24T15:52:08Z INFO Wrote 989 records to /tmp/derivatives/dandiset_id_to_title.zarr in 0.1 min (peak memory 145 MiB).
